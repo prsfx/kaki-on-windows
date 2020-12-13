@@ -20,9 +20,13 @@ But for far way more complex class, function, method and etc. Haven't tried yet.
 
 ## Preview
 
-*Kaki App with __kivy__ modules:* and *Kaki App with __md__ modules:*
+*Kaki App with __kivy__ modules:*
 
-![image info 01](/documentation/kaki-app-kv-modules.gif) ![image info 01](/documentation/kaki-app-md-modules.gif)
+![image info 01](/documentation/kaki-app-kv-modules.gif)
+
+*Kaki App with __md__ modules:*
+
+![image info 01](/documentation/kaki-app-md-modules.gif)
 
 <br>
 
